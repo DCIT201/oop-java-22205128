@@ -1,0 +1,10 @@
+com\vehiclerental\management\RentalTransaction.class
+com\vehiclerental\Utils\ValidationUtils.class
+com\vehiclerental\management\Rentable.class
+com\vehiclerental\management\Truck.class
+com\vehiclerental\management\Motorcycle.class
+com\vehiclerental\management\App.class
+com\vehiclerental\management\Vehicle.class
+com\vehiclerental\management\Car.class
+com\vehiclerental\management\RentalAgency.class
+com\vehiclerental\management\Customer.class
